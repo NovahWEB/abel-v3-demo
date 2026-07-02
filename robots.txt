@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abelbatista.com/sitemap-index.xml
